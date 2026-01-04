@@ -1,5 +1,10 @@
 # AI-Based Demand Forecasting System
 
+##Google Colab Notebook
+You can view and run the complete project notebook here:
+
+🔗 https://colab.research.google.com/drive/1tN8HVBv_kqwaqYRH9FWG6meiHkQ05haT?usp=sharing
+
 ## Overview
 This project implements an end-to-end AI demand forecasting system similar to those used in large-scale retail and e-commerce platforms. The system predicts future product demand using historical sales data, seasonality, trends, and lag-based features.
 
